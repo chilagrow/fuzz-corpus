@@ -1,0 +1,2 @@
+go test fuzz v1
+string("\"\xee\xa6\xe5\x8b勋\"")
